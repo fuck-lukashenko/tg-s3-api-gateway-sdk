@@ -1,0 +1,9 @@
+{
+  "name": "tg-s3-api-gateway-sdk",
+  "version": "0.0.1",
+  "description": "Telegram based API gateway SDK",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
